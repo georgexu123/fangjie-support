@@ -1,0 +1,322 @@
+{
+  "localizations": {
+    "zh-Hans": {
+      "support": {
+        "title": "方界支持",
+        "intro": "方界支持 iOS 17 及以上版本的 iPhone。",
+        "faq": [
+          {
+            "question": "如何恢复完整游戏解锁？",
+            "answer": "进入“设置”，打开完整游戏解锁页面，选择“恢复购买”。请确认设备登录的是购买时使用的 Apple ID，并保持 App Store 网络可用。"
+          },
+          {
+            "question": "为什么重置卡没有计入排行榜？",
+            "answer": "使用重置卡后，该局会转为助力局，不更新正式纪录、成就或 Game Center 排行榜。每日挑战和教学不能使用重置卡。"
+          },
+          {
+            "question": "本地纪录可以跨设备同步吗？",
+            "answer": "设置、任务和本地纪录仅保存在当前设备。Game Center 排行榜和成就由 Apple 保存，但不能替代完整本地存档。"
+          },
+          {
+            "question": "为什么选了主题或音乐后，开始游戏会出现购买页面？",
+            "answer": "付费主题和音乐可在购买前预览。选用付费内容时，开始游戏需要完整游戏解锁；切回免费主题和音乐即可继续免费游玩。"
+          }
+        ],
+        "contact": "反馈问题时，请把设备型号、iOS 版本、方界版本号、问题出现前的操作和截图发送至 georgexu12345@163.com。"
+      },
+      "privacy": {
+        "title": "方界隐私政策",
+        "effectiveDate": "生效日期：2026-08-29",
+        "intro": "方界是一款单机益智游戏。开发者不提供自有账号系统、广告、跨应用跟踪或第三方分析 SDK，也不运营用于保存玩家数据的自有服务器。",
+        "sections": [
+          {
+            "title": "本地数据",
+            "body": "游戏会在设备本地保存设置、教学状态、纪录、成就、每日挑战状态和重置卡库存。这些数据用于提供游戏功能，不会由方界上传到开发者服务器。删除 App 会删除这部分本地数据。"
+          },
+          {
+            "title": "Game Center",
+            "body": "如果玩家已登录 Apple Game Center，游戏会通过 Apple 服务提交符合条件的排行榜分数和成就。Game Center 身份、排行榜和成就数据由 Apple 按其隐私政策处理。"
+          },
+          {
+            "title": "App 内购买",
+            "body": "完整游戏解锁由 Apple App Store 和 StoreKit 处理。开发者不会接触玩家的支付凭证；游戏只读取 Apple 提供的交易权益状态。"
+          },
+          {
+            "title": "外部链接",
+            "body": "音乐致谢页面可打开音乐来源网站。离开游戏后，相应网站会按各自的隐私政策处理访问数据。"
+          },
+          {
+            "title": "儿童、变更与联系",
+            "body": "方界不会主动要求玩家提交姓名、邮箱、位置、通讯录、照片、麦克风或健康数据。如隐私实践发生实质变化，本政策将随版本更新。"
+          }
+        ],
+        "contact": "隐私或支持问题请联系 georgexu12345@163.com。"
+      }
+    },
+    "en-US": {
+      "support": {
+        "title": "Luma Cascade Support",
+        "intro": "Luma Cascade supports iPhone models running iOS 17 or later.",
+        "faq": [
+          {
+            "question": "How do I restore the Full Game Unlock?",
+            "answer": "Open Settings, choose Full Game Unlock, then Restore Purchases. Make sure the device is signed in to the Apple ID used for the purchase and can connect to the App Store."
+          },
+          {
+            "question": "Why did a reset-card run not count on the leaderboard?",
+            "answer": "Using a reset card turns the current run into an assisted run. It will not update official records, achievements, or Game Center leaderboards. Reset cards are unavailable in the tutorial and Daily Challenge."
+          },
+          {
+            "question": "Do local records sync across devices?",
+            "answer": "Settings, goals, and local records stay on the current device. Apple stores Game Center leaderboards and achievements, but they are not a complete game save."
+          },
+          {
+            "question": "Why does starting a game open the purchase screen after I change the theme or music?",
+            "answer": "Paid themes and music can be previewed before buying. Starting a game with either selected requires Full Game Unlock. Switch back to the free theme and music to continue free play."
+          }
+        ],
+        "contact": "For help, email georgexu12345@163.com with your device model, iOS version, Luma Cascade version, the steps before the issue, and a screenshot."
+      },
+      "privacy": {
+        "title": "Luma Cascade Privacy Policy",
+        "effectiveDate": "Effective August 29, 2026",
+        "intro": "Luma Cascade is an offline-first puzzle game. The developer provides no separate account system, advertising, cross-app tracking, or third-party analytics SDK, and operates no server for storing player data.",
+        "sections": [
+          {
+            "title": "Local Data",
+            "body": "The game stores settings, tutorial state, records, achievements, Daily Challenge state, and reset-card inventory on the device to provide game features. Luma Cascade does not upload this data to a developer server. Deleting the app deletes this local data."
+          },
+          {
+            "title": "Game Center",
+            "body": "If you are signed in to Apple Game Center, the game submits eligible leaderboard scores and achievements through Apple services. Apple processes Game Center identity, leaderboard, and achievement data under its privacy policy."
+          },
+          {
+            "title": "In-App Purchases",
+            "body": "Apple App Store and StoreKit process the Full Game Unlock. The developer never receives your card or payment credentials. The game only reads entitlement status supplied by Apple."
+          },
+          {
+            "title": "External Links",
+            "body": "The music credits page can open source websites. After you leave the game, each website processes visits under its own privacy policy."
+          },
+          {
+            "title": "Children, Changes, and Contact",
+            "body": "Luma Cascade does not ask players to submit names, email addresses, location, contacts, photos, microphone recordings, or health data. Material privacy changes will be reflected in an updated policy."
+          }
+        ],
+        "contact": "For privacy or support questions, email georgexu12345@163.com."
+      }
+    },
+    "de-DE": {
+      "support": {
+        "title": "Luma Cascade-Support",
+        "intro": "Luma Cascade unterstützt iPhones mit iOS 17 oder neuer.",
+        "faq": [
+          {
+            "question": "Wie stelle ich die Vollversion wieder her?",
+            "answer": "Öffne Einstellungen, wähle Vollversion freischalten und dann Käufe wiederherstellen. Das Gerät muss mit der Apple-ID des Kaufs angemeldet und mit dem App Store verbunden sein."
+          },
+          {
+            "question": "Warum zählt eine Partie mit Resetkarte nicht für die Rangliste?",
+            "answer": "Nach dem Einsatz einer Resetkarte zählt die Partie als unterstützt. Sie aktualisiert weder offizielle Rekorde noch Erfolge oder Game Center-Ranglisten. Im Tutorial und in der Tagesaufgabe sind Resetkarten nicht verfügbar."
+          },
+          {
+            "question": "Werden lokale Rekorde zwischen Geräten synchronisiert?",
+            "answer": "Einstellungen bleiben, Ziele und lokale Rekorde auf dem aktuellen Gerät. Apple speichert Game-Center-Ranglisten und Erfolge, aber keinen vollständigen Spielstand."
+          },
+          {
+            "question": "Warum erscheint nach einem Design- oder Musikwechsel beim Spielstart der Kaufbildschirm?",
+            "answer": "Kostenpflichtige Designs und Musik kannst du vor dem Kauf ausprobieren. Zum Spielen mit dieser Auswahl brauchst du die Vollversion. Wechsle zurück zum kostenlosen Design und Musikstück, um kostenlos weiterzuspielen."
+          }
+        ],
+        "contact": "Sende für Hilfe Gerätemodell, iOS-Version, Luma Cascade-Version, die Schritte vor dem Problem und einen Screenshot an georgexu12345@163.com."
+      },
+      "privacy": {
+        "title": "Datenschutzerklärung für Luma Cascade",
+        "effectiveDate": "Gültig ab 29. August 2026",
+        "intro": "Luma Cascade ist ein primär offline spielbares Puzzle. Der Entwickler bietet weder ein eigenes Kontosystem noch Werbung, appübergreifendes Tracking oder Analyse-SDKs von Drittanbietern und betreibt keinen Server zur Speicherung von Spielerdaten.",
+        "sections": [
+          {
+            "title": "Lokale Daten",
+            "body": "Einstellungen, Tutorialstatus, Rekorde, Erfolge, Tagesaufgabenstatus und Resetkartenvorrat werden für die Spielfunktionen auf dem Gerät gespeichert. Luma Cascade lädt diese Daten nicht auf einen Entwicklerserver hoch. Beim Löschen der App werden sie entfernt."
+          },
+          {
+            "title": "Game Center",
+            "body": "Wenn du bei Apple Game Center angemeldet bist, übermittelt das Spiel zulässige Ranglistenergebnisse und Erfolge über Apple-Dienste. Apple verarbeitet Game-Center-Identität, Ranglisten und Erfolge nach der eigenen Datenschutzrichtlinie."
+          },
+          {
+            "title": "In-App-Käufe",
+            "body": "Apple App Store und StoreKit verarbeiten den Kauf der Vollversion. Der Entwickler erhält keine Karten- oder Zahlungsdaten. Das Spiel liest nur den von Apple bereitgestellten Berechtigungsstatus."
+          },
+          {
+            "title": "Externe Links",
+            "body": "Die Musik-Danksagungen können Quellwebsites öffnen. Nach dem Verlassen des Spiels verarbeitet jede Website Besuche nach ihrer eigenen Datenschutzrichtlinie."
+          },
+          {
+            "title": "Kinder, Änderungen und Kontakt",
+            "body": "Luma Cascade fordert keine Namen, E-Mail-Adressen, Standorte, Kontakte, Fotos, Mikrofonaufnahmen oder Gesundheitsdaten an. Wesentliche Änderungen werden in einer aktualisierten Richtlinie veröffentlicht."
+          }
+        ],
+        "contact": "Fragen zu Datenschutz oder Support: georgexu12345@163.com."
+      }
+    },
+    "fr-FR": {
+      "support": {
+        "title": "Assistance Luma Cascade",
+        "intro": "Luma Cascade prend en charge les iPhone sous iOS 17 ou version ultérieure.",
+        "faq": [
+          {
+            "question": "Comment restaurer le déverrouillage complet ?",
+            "answer": "Ouvrez Réglages, choisissez Déverrouillage complet, puis Restaurer les achats. Vérifiez que l’appareil utilise l’identifiant Apple de l’achat et peut se connecter à l’App Store."
+          },
+          {
+            "question": "Pourquoi une partie avec une carte ne compte-t-elle pas au classement ?",
+            "answer": "Une carte transforme la partie en partie assistée. Elle ne met à jour ni les records officiels, ni les succès, ni les classements Game Center. Les cartes sont indisponibles dans le tutoriel et le Défi du jour."
+          },
+          {
+            "question": "Les records locaux se synchronisent-ils entre appareils ?",
+            "answer": "Les réglages, objectifs et records locaux restent sur l’appareil actuel. Apple conserve les classements et succès Game Center, mais pas une sauvegarde complète du jeu."
+          },
+          {
+            "question": "Pourquoi l’écran d’achat s’ouvre-t-il au lancement après un changement de thème ou de musique ?",
+            "answer": "Vous pouvez prévisualiser les thèmes et écouter les musiques payantes avant l’achat. Leur utilisation en partie nécessite l’achat complet. Revenez au thème et à la musique gratuits pour continuer à jouer gratuitement."
+          }
+        ],
+        "contact": "Pour obtenir de l’aide, envoyez le modèle d’appareil, la version d’iOS, la version de Luma Cascade, les étapes précédant le problème et une capture à georgexu12345@163.com."
+      },
+      "privacy": {
+        "title": "Politique de confidentialité de Luma Cascade",
+        "effectiveDate": "En vigueur le 29 août 2026",
+        "intro": "Luma Cascade est un puzzle conçu pour fonctionner hors ligne. Le développeur ne fournit ni compte distinct, ni publicité, ni suivi entre applications, ni SDK d’analyse tiers, et n’exploite aucun serveur destiné aux données des joueurs.",
+        "sections": [
+          {
+            "title": "Données locales",
+            "body": "Les réglages, l’état du tutoriel, les records, les succès, l’état du Défi du jour et le stock de cartes sont enregistrés sur l’appareil pour assurer les fonctions du jeu. Luma Cascade ne les envoie pas à un serveur du développeur. La suppression de l’app efface ces données."
+          },
+          {
+            "title": "Game Center",
+            "body": "Si vous êtes connecté à Apple Game Center, le jeu transmet les scores et succès admissibles par les services Apple. Apple traite l’identité, les classements et les succès Game Center selon sa politique de confidentialité."
+          },
+          {
+            "title": "Achats intégrés",
+            "body": "L’App Store d’Apple et StoreKit traitent le déverrouillage complet. Le développeur ne reçoit jamais vos coordonnées bancaires. Le jeu lit uniquement l’état des droits fourni par Apple."
+          },
+          {
+            "title": "Liens externes",
+            "body": "La page des crédits musicaux peut ouvrir les sites des sources. Après avoir quitté le jeu, chaque site traite les visites selon sa propre politique de confidentialité."
+          },
+          {
+            "title": "Enfants, modifications et contact",
+            "body": "Luma Cascade ne demande pas de nom, d’adresse e-mail, de position, de contacts, de photos, d’enregistrements du microphone ni de données de santé. Toute modification importante fera l’objet d’une politique mise à jour."
+          }
+        ],
+        "contact": "Pour toute question de confidentialité ou d’assistance : georgexu12345@163.com."
+      }
+    },
+    "ja-JP": {
+      "support": {
+        "title": "Luma Cascade サポート",
+        "intro": "Luma CascadeはiOS 17以降を搭載したiPhoneに対応しています。",
+        "faq": [
+          {
+            "question": "完全版の購入を復元するには？",
+            "answer": "「設定」から「完全版を解放」を開き、「購入を復元」を選んでください。購入時のApple IDでサインインし、App Storeに接続できることをご確認ください。"
+          },
+          {
+            "question": "リセットカードを使ったプレイがランキングに反映されないのはなぜですか？",
+            "answer": "カードを使うと、そのプレイはアシスト扱いになります。正式記録、実績、Game Centerランキングは更新されません。チュートリアルとデイリーチャレンジではカードを使用できません。"
+          },
+          {
+            "question": "ローカル記録は端末間で同期されますか？",
+            "answer": "設定、目標、ローカル記録は現在の端末だけに保存されます。Game Centerのランキングと実績はAppleに保存されますが、完全なセーブデータではありません。"
+          },
+          {
+            "question": "テーマや音楽を変えると、ゲーム開始時に購入画面が開くのはなぜですか？",
+            "answer": "有料のテーマや音楽は購入前にプレビューできます。選択したままゲームを始めるには完全版が必要です。無料のテーマと音楽に戻すと、引き続き無料で遊べます。"
+          }
+        ],
+        "contact": "お問い合わせの際は、端末モデル、iOSバージョン、Luma Cascadeのバージョン、問題発生前の操作、スクリーンショットを添えて georgexu12345@163.com までお送りください。"
+      },
+      "privacy": {
+        "title": "Luma Cascade プライバシーポリシー",
+        "effectiveDate": "施行日：2026年8月29日",
+        "intro": "Luma Cascadeはオフライン中心のパズルゲームです。開発者独自のアカウント、広告、アプリをまたぐトラッキング、第三者分析SDKはなく、プレイヤーデータ保存用サーバーも運営していません。",
+        "sections": [
+          {
+            "title": "端末内データ",
+            "body": "設定、チュートリアル状態、記録、実績、デイリーチャレンジ状態、リセットカード所持数をゲーム機能のため端末内に保存します。Luma Cascadeがこれらを開発者サーバーへ送信することはありません。Appを削除すると端末内データも削除されます。"
+          },
+          {
+            "title": "Game Center",
+            "body": "Apple Game Centerにサインインしている場合、対象となるランキングスコアと実績をAppleのサービス経由で送信します。Game CenterのID、ランキング、実績データはAppleのプライバシーポリシーに従って処理されます。"
+          },
+          {
+            "title": "App内課金",
+            "body": "完全版の購入処理はApple App StoreとStoreKitが行います。開発者がカード情報などの支払い認証情報を受け取ることはありません。ゲームはAppleが提供する購入権利の状態だけを読み取ります。"
+          },
+          {
+            "title": "外部リンク",
+            "body": "音楽クレジットから音源サイトを開くことがあります。ゲームを離れた後のアクセスは、各サイトのプライバシーポリシーに従って処理されます。"
+          },
+          {
+            "title": "子ども、変更、お問い合わせ",
+            "body": "Luma Cascadeが氏名、メールアドレス、位置情報、連絡先、写真、マイク録音、健康データの入力を求めることはありません。重要な変更がある場合は本ポリシーを更新します。"
+          }
+        ],
+        "contact": "プライバシーまたはサポートに関するお問い合わせ：georgexu12345@163.com"
+      }
+    },
+    "ko-KR": {
+      "support": {
+        "title": "Luma Cascade 지원",
+        "intro": "Luma Cascade는 iOS 17 이상이 설치된 iPhone을 지원합니다.",
+        "faq": [
+          {
+            "question": "전체 게임 잠금 해제를 복원하려면 어떻게 하나요?",
+            "answer": "설정에서 전체 게임 잠금 해제를 연 다음 구매 복원을 선택하세요. 구매에 사용한 Apple ID로 로그인되어 있고 App Store에 연결할 수 있는지 확인하세요."
+          },
+          {
+            "question": "초기화 카드를 사용한 게임이 순위표에 반영되지 않는 이유는 무엇인가요?",
+            "answer": "카드를 사용하면 해당 판이 도움을 받은 판으로 전환됩니다. 공식 기록, 도전 과제, Game Center 순위표는 갱신되지 않습니다. 튜토리얼과 일일 도전에서는 카드를 사용할 수 없습니다."
+          },
+          {
+            "question": "로컬 기록이 기기 간에 동기화되나요?",
+            "answer": "설정, 목표, 로컬 기록이 현재 기기에만 저장됩니다. Game Center 순위표와 도전 과제는 Apple이 저장하지만 전체 게임 저장 데이터는 아닙니다."
+          },
+          {
+            "question": "테마나 음악을 바꾼 뒤 게임을 시작하면 구매 화면이 뜨는 이유는 무엇인가요?",
+            "answer": "유료 테마와 음악은 구매 전에 미리 확인할 수 있습니다. 선택한 상태로 플레이하려면 전체 게임 잠금 해제가 필요합니다. 무료 테마와 음악으로 돌아가면 계속 무료로 플레이할 수 있습니다."
+          }
+        ],
+        "contact": "도움이 필요하면 기기 모델, iOS 버전, Luma Cascade 버전, 문제 발생 전 단계와 스크린샷을 georgexu12345@163.com으로 보내 주세요."
+      },
+      "privacy": {
+        "title": "Luma Cascade 개인정보 처리방침",
+        "effectiveDate": "시행일: 2026년 8월 29일",
+        "intro": "Luma Cascade는 오프라인 중심 퍼즐 게임입니다. 개발자는 별도 계정 시스템, 광고, 앱 간 추적 또는 타사 분석 SDK를 제공하지 않으며 플레이어 데이터 저장용 서버를 운영하지 않습니다.",
+        "sections": [
+          {
+            "title": "기기 내 데이터",
+            "body": "게임 기능 제공을 위해 설정, 튜토리얼 상태, 기록, 도전 과제, 일일 도전 상태와 초기화 카드 보유 수량을 기기에 저장합니다. Luma Cascade는 이 데이터를 개발자 서버로 업로드하지 않습니다. 앱을 삭제하면 기기 내 데이터도 삭제됩니다."
+          },
+          {
+            "title": "Game Center",
+            "body": "Apple Game Center에 로그인한 경우 대상 순위표 점수와 도전 과제를 Apple 서비스를 통해 제출합니다. Game Center 신원, 순위표와 도전 과제 데이터는 Apple의 개인정보 처리방침에 따라 처리됩니다."
+          },
+          {
+            "title": "앱 내 구입",
+            "body": "전체 게임 잠금 해제는 Apple App Store와 StoreKit에서 처리합니다. 개발자는 카드나 결제 인증 정보를 받지 않습니다. 게임은 Apple이 제공하는 구매 권한 상태만 확인합니다."
+          },
+          {
+            "title": "외부 링크",
+            "body": "음악 크레딧 페이지에서 음원 출처 사이트를 열 수 있습니다. 게임을 벗어난 뒤의 방문 정보는 각 사이트의 개인정보 처리방침에 따라 처리됩니다."
+          },
+          {
+            "title": "아동, 변경 및 문의",
+            "body": "Luma Cascade는 이름, 이메일 주소, 위치, 연락처, 사진, 마이크 녹음 또는 건강 데이터 제출을 요구하지 않습니다. 중요한 변경이 있을 경우 본 방침을 업데이트합니다."
+          }
+        ],
+        "contact": "개인정보 또는 지원 문의: georgexu12345@163.com"
+      }
+    }
+  }
+}

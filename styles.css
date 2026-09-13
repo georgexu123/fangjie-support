@@ -112,3 +112,12 @@ footer {
   .mark { width: 68px; height: 68px; border-radius: 22px; font-size: 36px; }
   .card { border-radius: 22px; }
 }
+
+.language-nav, .page-nav { display: flex; flex-wrap: wrap; gap: 8px 18px; }
+.document .language-nav { margin-bottom: 24px; font-size: 14px; }
+.document .page-nav { margin-bottom: 30px; }
+nav a { padding: 5px 0; }
+nav [aria-current="page"] { color: var(--primary); text-decoration: underline; text-underline-offset: 5px; }
+.card p, h1, h2 { overflow-wrap: anywhere; }
+.card section:first-of-type h2 { margin-top: 24px; }
+a:focus-visible { outline: 2px solid var(--accent-soft); outline-offset: 4px; }
